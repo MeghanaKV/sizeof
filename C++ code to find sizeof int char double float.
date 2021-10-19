@@ -1,0 +1,9 @@
+#include<iostream.h>
+using namespace std;
+int main()
+{
+cout<<"Size of char: "<<sizeof(char)<<"byte"<<'\n';
+cout<<"Size of char: "<<sizeof(char)<<"byte"<<'\n';
+cout<<"Size of char: "<<sizeof(char)<<"byte"<<'\n';
+cout<<"Size of char: "<<sizeof(char)<<"byte"<<'\n';
+}
